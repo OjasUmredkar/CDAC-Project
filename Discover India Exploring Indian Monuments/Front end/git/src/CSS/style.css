@@ -1,0 +1,46 @@
+.title-monument {
+  color: rgb(85, 73, 248);
+  text-decoration: underline;
+  font-family: Georgia, 'Times New Roman', Times, serif;
+  }
+
+  .photo-size{
+    height: 300px;
+    width: 500px
+  }
+
+  .description{
+    margin-left: 15%;
+
+    text-align: center;
+    width: 70%;
+    font-family:Arial, Helvetica, sans-serif
+
+  }
+
+  .textcolor{
+    color: rgb(206, 231, 18);
+  }
+.alignright{
+  margin-left: 95%;
+}
+
+.underline{
+  text-decoration: underline;
+}
+
+.textcolor2{
+  color: rgb(254, 1, 1);
+}
+
+.tablewidth{
+  width: 100%;
+}
+
+.textwhite{
+  color: white;
+}
+
+.textgreen{
+  color: green;
+}
